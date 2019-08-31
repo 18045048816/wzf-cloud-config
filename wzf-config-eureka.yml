@@ -8,7 +8,7 @@ server:
 spring:
   profiles: dev # 开发环境
   application:
-    name: wzf-config-eureka1
+    name: wzf-config-eureka
     
 eureka:
   instance:
